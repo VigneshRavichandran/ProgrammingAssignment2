@@ -9,7 +9,7 @@
 ## and stores into an object m in another environment using <<- operator. 
 ## get function returns the input matrix and getmatrix function
 ## returns the inverse matrix
-
+## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
 
